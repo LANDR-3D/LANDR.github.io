@@ -124,6 +124,7 @@ PID tune can be done by clicking on the heater that needs tuning the same way as
 A: Nozzles need to be replaced when experiencing partial or full clog. After every nozzle swap z-offset needs to be redone.
 
 ##### Q: How do I swap a nozzle?
-A: Heat up the nozzle to 300°C and using a 7mm spanner take it out.
-Put the new one in and tighten it while it's at 300°C.
-After a nozzle swap, the z-offset needs to be redone.
+A: 
+1.Heat up the nozzle to 300°C and using a 7mm spanner take it out.
+2. Put the new one in and tighten it while it's at 300°C.
+3. After a nozzle swap, the z-offset needs to be redone.
