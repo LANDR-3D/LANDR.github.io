@@ -1,4 +1,4 @@
-https://github.com/LANDR-3D/LANDR.github.io/blob/main/LANDR%20Logo_Build%20Plate.png?raw=true
+![image alt](https://github.com/LANDR-3D/LANDR.github.io/blob/main/LANDR%20Logo_Build%20Plate.png?raw=true)
 
 # LANDR Wiki
 
