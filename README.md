@@ -13,19 +13,19 @@
 4. Load the filament.
 
 #### First layer calibration.
-Z-offset: Use the printer’s "Z calibration" under More option to manually adjust the bed height. Place a piece of paper under the nozzle and move it until the nozzle lightly scrapes the paper—there should be slight resistance, but not too tight.
-Check the First Layer: As the printer starts, the first layer:
-Too High: If the filament doesn’t stick or looks stringy, lower the bed slightly.
-Too Low: If the nozzle drags or the filament squishes too much, raise the bed slightly.
-Fine-Tune Z-Offset (if needed):While the printer is printing under fine tuning it is possible to adjust it real time and save it for the next time.
+1. Z-offset: Use the printer’s "Z calibration" under More option to manually adjust the bed height. Place a piece of paper under the nozzle and move it until the nozzle lightly scrapes the paper—there should be slight resistance, but not too tight.
+2. Check the First Layer: As the printer starts, the first layer:
+3. Too High: If the filament doesn’t stick or looks stringy, lower the bed slightly.
+4. Too Low: If the nozzle drags or the filament squishes too much, raise the bed slightly.
+5. Fine-Tune Z-Offset (if needed):While the printer is printing under fine tuning it is possible to adjust it real time and save it for the next time.
 
 ### Printing Process
 
 #### Starting a Print:
-1.Importing the model, into the slicer, and sending to the printer
+Importing the model, into the slicer, and sending to the printer
 
 #### Ways to send print files to printers:
-3.Through Wi-Fi: On the screen go More>Network On the top, there is a number. Type that into a browser to get access to it. The two device must be on the same network for it to work.
+Through Wi-Fi: On the screen go More>Network On the top, there is a number. Type that into a browser to get access to it. The two device must be on the same network for it to work.
 Flash Drive: Take a fat32 flash drive and copy the gcodes onto the flash drive. Once the flash drive has the desired gcodes on it, plug it into the printer front USB slot. Wait a little bit to shows up under the print section.
 
 Monitoring the Print:
