@@ -8,9 +8,7 @@
 
 ### Getting Started
 
-#### Warning
-
-##### Before homing ensure build plate is on the bed. 
+### Warning | Before homing ensure build plate is on the bed. 
 
 
 #### Initial Setup:
