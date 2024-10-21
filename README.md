@@ -8,6 +8,11 @@
 
 ### Getting Started
 
+#### Warning
+
+##### Before homing ensure build plate is on the bed. 
+
+
 #### Initial Setup:
 1. Plug in and turn on the printer.
 2. Level the print bed even by hand for the initial setup.
