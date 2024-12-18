@@ -13,9 +13,13 @@
 
 #### Initial Setup:
 1. Plug in and turn on the printer.
-2. Level the print bed even by hand for the initial setup.
-3. Calibrate the z-offset
-4. Load the filament.
+   
+3. Level the print bed even by hand for the initial setup.
+4. Calibrate the z-offset
+   
+5. Load the filament.
+<img src="https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00004.jpeg" width=20% height=20%>
+
 
 #### First layer calibration.
 1. Z-offset: Use the printer’s "Z calibration" under More option to manually adjust the bed height. Place a piece of paper under the nozzle and move it until the nozzle lightly scrapes the paper—there should be slight resistance, but not too tight.
