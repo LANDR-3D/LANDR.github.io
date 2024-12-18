@@ -138,6 +138,6 @@ A: Nozzles need to be replaced when experiencing partial or full clog. After eve
 3. After a nozzle swap, the z-offset needs to be redone.
 
 <img src="https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00001.jpeg" width=20% height=20%>
-
+https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00010.jpeg
 
 
