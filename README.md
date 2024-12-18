@@ -36,8 +36,8 @@ Importing the model, into the slicer, and sending to the printer
 #### Ways to send print files to printers:
 Through Wi-Fi: On the screen go More>Network On the top, there is a number. Type that into a browser to get access to it. The two device must be on the same network for it to work.
 Flash Drive: Take a fat32 flash drive and copy the gcodes onto the flash drive. Once the flash drive has the desired gcodes on it, plug it into the printer front USB slot. Wait a little bit to shows up under the print section.
-https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00020.jpeg
-
+<img src="https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00020.jpeg" width=20% height=20%>
+<img src="https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00021.jpeg" width=20% height=20%>
 
 Monitoring the Print:
 We recommend to check on the machine regularly while it is running.
@@ -69,7 +69,7 @@ Solution: Adjust bed level, clean bed surface, use adhesion aids adjust bed temp
 #### Nozzle Clogs:
 Issue: Filament not extruding.
 Solution: Clean the nozzle with a needle, or use cold pull.
-https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00013.jpeg
+<img src="https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00013.jpeg" width=20% height=20%>
 
 #### Stringing:
 Issue: Filament oozing between parts.
@@ -116,8 +116,8 @@ A: We recommend to use Landr slicer.
 
 ##### Q: How do I change LED brightness
 A: LED slider can be found under More>pin
-https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00017.jpeg
-https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00023.jpeg
+<img src="https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00017.jpeg" width=20% height=20%>
+<img src="https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00023.jpeg" width=20% height=20%>
 
 ##### Q: How do I pause or resume a print?
 A: Press the pause button to pause the print and press the resume button to resume it.
@@ -143,6 +143,7 @@ A: Nozzles need to be replaced when experiencing partial or full clog. After eve
 3. After a nozzle swap, the z-offset needs to be redone.
 
 <img src="https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00001.jpeg" width=20% height=20%>
-https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00010.jpeg
+<img src="https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00010.jpeg" width=20% height=20%>
+
 
 
