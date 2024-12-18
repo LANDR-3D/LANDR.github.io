@@ -133,6 +133,7 @@ A: Nozzles need to be replaced when experiencing partial or full clog. After eve
 2. Put the new one in and tighten it while it's at 300°C.
 3. After a nozzle swap, the z-offset needs to be redone.
 
+<img src="https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00001.jpeg" width=20% height=20%>
 
 
 
