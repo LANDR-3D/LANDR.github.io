@@ -67,6 +67,7 @@ Solution: Adjust bed level, clean bed surface, use adhesion aids adjust bed temp
 #### Nozzle Clogs:
 Issue: Filament not extruding.
 Solution: Clean the nozzle with a needle, or use cold pull.
+https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00013.jpeg
 
 #### Stringing:
 Issue: Filament oozing between parts.
