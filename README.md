@@ -36,6 +36,8 @@ Importing the model, into the slicer, and sending to the printer
 #### Ways to send print files to printers:
 Through Wi-Fi: On the screen go More>Network On the top, there is a number. Type that into a browser to get access to it. The two device must be on the same network for it to work.
 Flash Drive: Take a fat32 flash drive and copy the gcodes onto the flash drive. Once the flash drive has the desired gcodes on it, plug it into the printer front USB slot. Wait a little bit to shows up under the print section.
+https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00020.jpeg
+
 
 Monitoring the Print:
 We recommend to check on the machine regularly while it is running.
