@@ -16,8 +16,8 @@
    
 3. Level the print bed even by hand for the initial setup.
 4. Calibrate the z-offset
-   
-5. Load the filament.
+<img src="https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00009.jpeg" width=20% height=20%>
+6. Load the filament.
 <img src="https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00004.jpeg" width=20% height=20%>
 
 
