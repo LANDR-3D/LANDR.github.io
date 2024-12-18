@@ -115,6 +115,7 @@ A: We recommend to use Landr slicer.
 ##### Q: How do I change LED brightness
 A: LED slider can be found under More>pin
 https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00017.jpeg
+https://github.com/LANDR-3D/LANDR.github.io/blob/main/image00023.jpeg
 
 ##### Q: How do I pause or resume a print?
 A: Press the pause button to pause the print and press the resume button to resume it.
